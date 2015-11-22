@@ -1,0 +1,7 @@
+li.corner {
+  padding: 0 20px;
+}
+
+li.completed {
+  text-decoration: line-through;
+}
